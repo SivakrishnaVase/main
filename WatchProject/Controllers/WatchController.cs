@@ -39,7 +39,7 @@ public class WatchController : ControllerBase
         return Ok(new { Price = total });
     }
 
-    private decimal CalculateTotal(List<string> watchIds)
+     private decimal CalculateTotal(List<string> watchIds)
     {
         decimal total = 0;
         var groupedWatches = watchIds.GroupBy(id => id);

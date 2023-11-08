@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sivakrishnavase/Projects/WatchProject/WatchProject/WatchProject.csproj": {}
+    "/Users/sivakrishnavase/Desktop/main/WatchProject/WatchProject.csproj": {}
   },
   "projects": {
-    "/Users/sivakrishnavase/Projects/WatchProject/WatchProject/WatchProject.csproj": {
+    "/Users/sivakrishnavase/Desktop/main/WatchProject/WatchProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sivakrishnavase/Projects/WatchProject/WatchProject/WatchProject.csproj",
+        "projectUniqueName": "/Users/sivakrishnavase/Desktop/main/WatchProject/WatchProject.csproj",
         "projectName": "WatchProject",
-        "projectPath": "/Users/sivakrishnavase/Projects/WatchProject/WatchProject/WatchProject.csproj",
+        "projectPath": "/Users/sivakrishnavase/Desktop/main/WatchProject/WatchProject.csproj",
         "packagesPath": "/Users/sivakrishnavase/.nuget/packages/",
-        "outputPath": "/Users/sivakrishnavase/Projects/WatchProject/WatchProject/obj/",
+        "outputPath": "/Users/sivakrishnavase/Desktop/main/WatchProject/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sivakrishnavase/.nuget/NuGet/NuGet.Config"
